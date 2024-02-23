@@ -9,7 +9,7 @@ I'm a Python programmer with a passion for creating meaningful and useful applic
 ## Projects
 Here are some of the projects that I've worked on:
 
-- **Personal Fitness App Tracker**: An application to keep track of your fitness journey.
+- [**Personal Fitness App Tracker**](https://github.com/Ashrick12/Fitness-Tracker-App): An application to keep track of your fitness journey.
 - **Piano Progress Tracker**: A tool to monitor and visualize your progress in learning the piano.
 - **Flashcard App**: A simple and efficient flashcard application for effective learning.
 - **Personal Library For Tracking My Books**: Keep track of your books and reading progress with this personal library app.
