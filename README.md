@@ -1,10 +1,19 @@
-```
+# Hello, I'm Ashrick12! 👋
 
-Ashrick12's Profile
+## About Me
+I'm a Python programmer with a passion for creating meaningful and useful applications. I'm currently expanding my skill set to include HTML, Flask/Django, Javascript, and CSS.
 
-```
+## Skills
+- **Python**
 
-<!---
-Ashrick12/Ashrick12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Projects
+Here are some of the projects that I've worked on:
+
+- **Personal Fitness App Tracker**: An application to keep track of your fitness journey.
+- **Piano Progress Tracker**: A tool to monitor and visualize your progress in learning the piano.
+- **Flashcard App**: A simple and efficient flashcard application for effective learning.
+- **Personal Library For Tracking My Books**: Keep track of your books and reading progress with this personal library app.
+
+## Contact Me
+Feel free to reach out to me via email at ashtonh1204@gmail.com.
+
