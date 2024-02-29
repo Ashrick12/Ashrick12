@@ -1,10 +1,11 @@
 # Hello, I'm Ashrick12! 👋
 
 ## About Me
-I'm a Python programmer with a passion for creating meaningful and useful applications. I'm currently expanding my skill set to include HTML, Flask/Django, Javascript, and CSS.
+I'm a Python programmer with a passion for creating meaningful and useful applications. I also know HTML and I'm currently expanding my skill set to include Flask/Django, Javascript, and CSS.
 
 ## Skills
 - **Python**
+- **HTML**
 
 ## Projects
 Here are some of the projects that I've worked on:
