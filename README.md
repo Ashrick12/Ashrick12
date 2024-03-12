@@ -12,7 +12,7 @@ Here are some of the projects that I've worked on:
 
 - [**Personal Fitness App Tracker**](https://github.com/Ashrick12/Fitness-Tracker-App): An application to keep track of your fitness journey.
 - [**Piano Progress Tracker**](https://github.com/Ashrick12/piano-tracker): A tool to monitor and visualize your progress in learning the piano.
-- **Flashcard App**: A simple and efficient flashcard application for effective learning.
+- [**Task Manager**](https://github.com/Ashrick12/task-manager): A simple and efficient task manager to keep track of your daily/weekly/monthly tasks.
 - [**Personal Library For Tracking My Books**](https://github.com/Ashrick12/Personal-Library): Keep track of your books and reading progress with this personal library app.
 
 ## Contact Me
