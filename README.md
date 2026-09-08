@@ -10,7 +10,7 @@
 
 **Aerospace Engineering Transfer Student &bull; CAD Designer &bull; Flight Simulation & Additive Prototyping**
 
-[🌐 Portfolio Website](https://ashrick12.github.io/) &bull; [💼 LinkedIn](https://www.linkedin.com/in/ashton-hendrickson-55508a262) &bull; [📄 Resume (PDF)](https://github.com/Ashrick12/ashrick12.github.io/blob/main/assets/Ashton_Hendrickson_Resume.pdf) &bull; [✉️ Email](mailto:ashtonh1204@gmail.com)
+[🌐 Portfolio Website](https://ashrick12.github.io/) &bull; [💼 LinkedIn](https://www.linkedin.com/in/ashton-hendrickson-55508a262) &bull; [✉️ Email](mailto:ashtonh1204@gmail.com)
 
 </div>
 
