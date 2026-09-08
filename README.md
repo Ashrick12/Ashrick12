@@ -84,5 +84,4 @@ I am an **Aerospace Engineering student** transferring from Chandler-Gilbert Com
 * **Portfolio:** [ashrick12.github.io](https://ashrick12.github.io/)
 * **LinkedIn:** [linkedin.com/in/ashton-hendrickson-55508a262](https://www.linkedin.com/in/ashton-hendrickson-55508a262)
 * **Email:** [ashtonh1204@gmail.com](mailto:ashtonh1204@gmail.com)
-* **Resume:** [Download Resume PDF](https://github.com/Ashrick12/ashrick12.github.io/blob/main/assets/Ashton_Hendrickson_Resume.pdf)
 
